@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:03:21.002583
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:04
 #+TITLE: 念佛三昧
 #+PROPERTY: CBETA_ID X62n1190
 #+PROPERTY: ID KR6p0109
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 62, No. 1190
 #+PROPERTY: VOL 62
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0109_X_001-0470b> 
 #+PROPERTY: JUAN 1
-No.1190¶
-
- 念佛三昧　(出檀几叢書二集卷二十三)¶
-姑蘇金人　瑞聖歎　著¶
+No. 1190¶
+念佛三昧　(出檀几叢書二集卷二十三)¶
+姑蘇　金人瑞　聖歎　著¶
 
 娑婆世界。釋尊住持。華藏世界。盧舍那世尊住持。釋¶
 尊新成佛。盧舍那本成佛也。他方世界。有阿彌陀佛。¶
